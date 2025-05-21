@@ -16,3 +16,4 @@
 
 ### 📫 How to Reach Me
 - 📧 Email:(srinivaskurra886@gmail.com)
+- 📧 Linkedin:(https://www.linkedin.com/in/kurra-srinivas-31727420b/)
