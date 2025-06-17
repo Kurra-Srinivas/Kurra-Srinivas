@@ -1,6 +1,6 @@
 <!-- Dynamic Banner with Name and Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Kurra+Srinivas;Data+Alchemist+%7C+AI+Enthusiast+%7C+IIT+Kharagpur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Kurra+Srinivas+IIT+Kharagpur" alt="Typing SVG" />
 </p>
 
 ---
