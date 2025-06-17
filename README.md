@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&height=80&lines=Hi👋,I'm+Kurra+Srinivas" alt="Typing SVG" />
 </p>
+
 **About Me🚀**
 
 🎓 Currently pursuing my studies at **IIT Kharagpur**  
