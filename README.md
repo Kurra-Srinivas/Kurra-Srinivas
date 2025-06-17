@@ -2,16 +2,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&height=80&lines=Hi👋,I'm+Kurra+Srinivas" alt="Typing SVG" />
 </p>
-### 🚀 About Me
+**About Me🚀**
 
-🎓 I am currently pursuing my studies at **IIT Kharagpur**  
-📊 I am passionate about **Data Science**, **AI/ML**, **Data Analytics**, and **Business Analytics**, and I love building intelligent systems that convert raw data into actionable insights.
+🎓 Currently pursuing my studies at **IIT Kharagpur**  
+📊 Passionate about **Data Science**, **AI/ML**, **Data Analytics**, and **Business Analytics**
 
-💻 My focus is on:
-- 👀 Tackling real-world challenges using **data-driven solutions**  
-- 🌱 Sharpening my skills in **machine learning**, **data visualization**, and **end-to-end data pipelines**  
-- 💡 Actively exploring tools and technologies such as **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow**, **SQL**, **Power BI**, and **Streamlit**  
-- 🧠 Continuously learning while working on **AI/ML research** and **industry-level analytics projects**
+💻 I focus on:
+- 👀 Solving real-world problems using **data-driven solutions**  
+- 🌱 Enhancing skills in **ML, data visualization, and data pipelines**  
+- 💡 Exploring tools like **Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Power BI, Streamlit**  
+- 🧠 Learning continuously through **AI/ML research** and **industry-level projects**
+
 
 ### 🧠 Languages & Tools I Use
 
