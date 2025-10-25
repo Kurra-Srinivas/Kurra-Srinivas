@@ -6,7 +6,7 @@
 **🚀About Me**
 
 🎓 Currently pursuing my studies at **IIT Kharagpur**  
-📊 Passionate about **Data Science**, **AI/ML**, **Data Analytics**, and **Business Analytics**
+📊 Passionate about **Data Science**, **AI/ML**, **GenAI**, **Data Analytics**, and **Business Analytics**
 
 💻 I focus on:
 - 👀 Solving real-world problems using **data-driven solutions**  
